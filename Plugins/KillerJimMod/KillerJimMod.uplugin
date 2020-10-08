@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 4,
+	"VersionName": "4.25",
+	"FriendlyName": "KillerJimMod",
+	"Description": "The KilelrJim Mod Mod",
+	"Category": "User Mod",
+	"CreatedBy": "Deep Voodoo Games",
+	"CreatedByURL": "https://www.deepvoodoogames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "KillerJimModProxy",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
