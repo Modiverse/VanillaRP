@@ -1,0 +1,2 @@
+# KJModVanillaRP
+KJMod Gamemode VanillaRP
