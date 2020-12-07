@@ -15,6 +15,10 @@
 		{
 			"Name": "VRExpansionPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintJson",
+			"Enabled": true
 		}
 	]
 }
