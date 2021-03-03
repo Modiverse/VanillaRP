@@ -1,0 +1,11 @@
+(c) Deep Voodoo Games Ltd
+-------------------------
+
+You are hereby given full rights to use any part of this project to create new or derived works on the conditions that such works are used only for the creation of "mods" for use in "Modiverse" ("The KJMod", "The KillerJim Mod") game.
+
+In addition to this you accept the terms and conditions set out in "Modiverse" application, specifically the sections relating to the creation of "mods".
+
+These terms and conditions are modified from time to time, please contact Deep Voodoo Games Ltd for the latest terms and conditions.
+
+Happy modding!
+-KillerJim
